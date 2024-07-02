@@ -1,0 +1,14 @@
+[book]
+src = "src"
+title = "mdbook-template"
+language = "en"
+multilingual = false
+authors = ["Author Name"]
+
+[build]
+build-dir = "build"
+create-missing = false
+
+[preprocessor.alerts]
+
+[preprocessor.pagetoc]
